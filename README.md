@@ -1,6 +1,6 @@
 ## Hi all! My name is Reece, welcome to my world! 🌎
 
-### Please see my Website & Twitter below. (My website needs a redesign when I get around to it)
+### Please see my Website & Twitter below. (My website needs a redesign - more of a future note to myself 🙃)
 [![Website](https://img.shields.io/website?label=ReeceGibbo.com&style=for-the-badge&url=https%3A%2F%2Freecegibbo.com)](https://reecegibbo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ReeceGibbo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/reecegibbo&screen_name=reecegibbbo)
 
